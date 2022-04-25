@@ -4,4 +4,4 @@
 
 ### Technical skills Navigation
 - Additive Manufacturing
-- Subtractive Manufacturing
+- [Subtractive Manufacturing](cnc.md)
